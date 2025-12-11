@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "hello_kitty",
+    "savedDate": "2012-06-14T12:00:00",
+    "message": "Hoy no toca.",
+    "image": "/Pegatinas/assets/images/hello_kitty.png" 
+  },
+  {
+    "id": 2,
+    "name": "monster_high",
+    "savedDate": "2013-01-01T00:00:00",
+    "message": "¿Y si esperas al momento perfecto?",
+    "image": "/assets/images/monster_high.png" 
+  },
+  {
+    "id": 15,
+    "name": "bratz",
+    "savedDate": "2020-12-04T00:00:00",
+    "message": "¡Que no me pegues, tía!",
+    "image": "/assets/images/bratz.png" 
+  }
+]
