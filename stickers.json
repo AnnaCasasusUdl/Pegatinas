@@ -1,0 +1,245 @@
+[
+  {
+    "id": 1,
+    "name": "bubbalu",
+    "savedDate": "2002-06-14 12:00:00",
+    "message": "Hoy no toca.",
+    "image": "img/stickers_web/bubbalu.png"
+  },
+  {
+    "id": 2,
+    "name": "draculaura",
+    "savedDate": "1995-01-01 02:10:00",
+    "message": "¿Y si esperas al momento perfecto?",
+    "image": "img/stickers_web/draculaura.png"
+  },
+  {
+    "id": 3,
+    "name": "bratz",
+    "savedDate": "2003-12-04 00:00:00",
+    "message": "¡Que no me pegues, tía!",
+    "image": "img/stickers_web/bratz.png"
+  },
+  {
+    "id": 4,
+    "name": "alexrusso",
+    "savedDate": "2010-07-15 15:30:00",
+    "message": "No soy la indicada hoy",
+    "image": "img/stickers_web/alexrusso.png"
+  },
+  {
+    "id": 5,
+    "name": "bobcangrejo",
+    "savedDate": "2020-12-15 09:45:00",
+    "message": "Entiendo que no me pegues, estoy vieja",
+    "image": "img/stickers_web/bobcangrejo.png"
+  },
+  {
+    "id": 6,
+    "name": "camarasony",
+    "savedDate": "2000-11-11 11:11:00",
+    "message": "No me pegues, soy sensible",
+    "image": "img/stickers_web/camarasony.png"
+  },
+  {
+    "id": 7,
+    "name": "1d",
+    "savedDate": "2009-02-14 20:00:00",
+    "message": "Tanto tiempo esperando y ahora ni estamos juntos",
+    "image": "img/stickers_web/1d.png"
+  },
+  {
+    "id": 8,
+    "name": "hannahmontana",
+    "savedDate": "2005-08-20 18:30:00",
+    "message": "No estas lista para esta pegatina",
+    "image": "img/stickers_web/hannahmontana.png"
+  },
+  {
+    "id": 9,
+    "name": "icarly",
+    "savedDate": "2007-01-05 22:00:00",
+    "message": "Soy demasiado especial para este fondo cutre",
+    "image": "img/stickers_web/icarly.png"
+  },
+  {
+    "id": 10,
+    "name": "bluewinx",
+    "savedDate": "2003-05-18 16:20:00",
+    "message": "Espera un poquito más",
+    "image": "img/stickers_web/bluewinx.png"
+  },
+  {
+    "id": 11,
+    "name": "flor",
+    "savedDate": "2005-10-31 23:59:00",
+    "message": "Ups… casi, pero no",
+    "image": "img/stickers_web/flor.png"
+  },
+  {
+    "id": 12,
+    "name": "tartafresa",
+    "savedDate": "1997-03-21 14:00:00",
+    "message": "Esto es mucha responsabilidad",
+    "image": "img/stickers_web/tartafresa.png"
+  },
+  {
+    "id": 13,
+    "name": "southpark",
+    "savedDate": "2001-09-10 19:00:00",
+    "message": "¿Seguro que este es el fondo indicado?",
+    "image": "img/stickers_web/southpark.png"
+  },
+  {
+    "id": 14,
+    "name": "bmo",
+    "savedDate": "2015-04-04 10:00:00",
+    "message": "Qué prisa llevas, ¿no?",
+    "image": "img/stickers_web/bmo.png"
+  },
+  {
+    "id": 15,
+    "name": "homero",
+    "savedDate": "2006-11-07 21:15:00",
+    "message": "Esto no es lo que me prometieron",
+    "image": "img/stickers_web/homero.png"
+  },
+  {
+    "id": 16,
+    "name": "mclovin",
+    "savedDate": "2014-06-12 17:40:00",
+    "message": "No me uses para rellenar el vacío",
+    "image": "img/stickers_web/mclovin.png"
+  },
+  {
+    "id": 17,
+    "name": "rubia",
+    "savedDate": "2003-12-31 23:55:00",
+    "message": "Ni lo intentes, no soy el postre de nadie, vete con la otra ",
+    "image": "img/stickers_web/rubia.png"
+  },
+  {
+    "id": 18,
+    "name": "tamagochi",
+    "savedDate": "2004-08-08 08:08:00",
+    "message": "¿Esto va de ti o de mí?",
+    "image": "img/stickers_web/tamagochi.png"
+  },
+   {
+    "id": 19,
+    "name": "kanye",
+    "savedDate": "2003-12-31 23:55:00",
+    "message": "Ni lo intentes, no soy el postre de nadie, vete con la otra ",
+    "image": "img/stickers_web/kanye.png"
+  },
+    
+  {
+    "id": 20,
+    "name": "creeper",
+    "savedDate": "2004-08-08 08:08:00",
+    "message": "¿Esto va de ti o de mí?",
+    "image": "img/stickers_web/creeper.png"
+  },
+  
+  {
+    "id": 21,
+    "name": "disobey",
+    "savedDate": "2004-08-08 08:08:00",
+    "message": "¿Esto va de ti o de mí?",
+    "image": "img/stickers_web/disobey.png"
+  },
+  {
+    "id": 22,
+    "name": "cuca",
+    "savedDate": "2004-08-08 08:08:00",
+    "message": "¿Esto va de ti o de mí?",
+    "image": "img/stickers_web/cuca.png"
+  },
+
+  {
+    "id": 23,
+    "name": "cosmo",
+    "savedDate": "2004-08-08 08:08:00",
+    "message": "¿Esto va de ti o de mí?",
+    "image": "img/stickers_web/cosmo.png"
+  },
+
+  {
+    "id": 24,
+    "name": "diablita",
+    "savedDate": "2004-08-08 08:08:00",
+    "message": "¿Esto va de ti o de mí?",
+    "image": "img/stickers_web/diablita.png"
+  },
+
+  {
+    "id": 25,
+    "name": "patolucas",
+    "savedDate": "2004-08-08 08:08:00",
+    "message": "¿Esto va de ti o de mí?",
+    "image": "img/stickers_web/patolucas.png"
+  },
+
+ {
+    "id": 26,
+    "name": "spicy",
+    "savedDate": "2004-08-08 08:08:00",
+    "message": "¿Esto va de ti o de mí?",
+    "image": "img/stickers_web/spicy.png"
+  },
+
+  {
+    "id": 27,
+    "name": "stellawinx",
+    "savedDate": "2004-08-08 08:08:00",
+    "message": "¿Esto va de ti o de mí?",
+    "image": "img/stickers_web/stellawinx.png"
+  },
+
+ {
+    "id": 28,
+    "name": "asno",
+    "savedDate": "2004-08-08 08:08:00",
+    "message": "¿Esto va de ti o de mí?",
+    "image": "img/stickers_web/asno.png"
+  },
+   {
+    "id": 29,
+    "name": "calaveramonster",
+    "savedDate": "2004-08-08 08:08:00",
+    "message": "¿Esto va de ti o de mí?",
+    "image": "img/stickers_web/calaveramonster.png"
+  },
+
+  {
+    "id": 30,
+    "name": "clubpenguin",
+    "savedDate": "2004-08-08 08:08:00",
+    "message": "¿Esto va de ti o de mí?",
+    "image": "img/stickers_web/clubpenguin.png"
+  },
+
+  {
+    "id": 31,
+    "name": "cartoonetwork",
+    "savedDate": "2004-08-08 08:08:00",
+    "message": "¿Esto va de ti o de mí?",
+    "image": "img/stickers_web/cartoonnetwork.png"
+  },
+
+  {
+    "id": 32,
+    "name": "cat",
+    "savedDate": "2004-08-08 08:08:00",
+    "message": "¿Esto va de ti o de mí?",
+    "image": "img/stickers_web/cat.png"
+  },
+
+    {
+    "id": 33,
+    "name": "lizzie",
+    "savedDate": "2004-08-08 08:08:00",
+    "message": "¿Esto va de ti o de mí?",
+    "image": "img/stickers_web/lizzie.png"
+  }
+]
